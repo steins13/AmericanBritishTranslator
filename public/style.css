@@ -79,3 +79,75 @@ input[type="button"] {
     margin-top: 0;
   }
 }
+
+#body {
+  background-color: rgb(179, 179, 231);
+}
+
+#title {
+  height: 100px;
+  margin: 30px auto;
+  width: 900px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: cursive;
+  font-size: 50px;
+  color: rgb(67, 67, 117);
+}
+
+#textarea {
+  width: 600px;
+}
+
+
+#cute {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+#locale-select {
+  background-color: snow;
+}
+
+#translate-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px auto;
+}
+
+#output-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px auto;
+}
+
+#solution-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 15px auto;
+}
+
+#solTitle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: cursive;
+  font-size: 20px;
+  color: rgb(56, 56, 141);
+  margin-bottom: 10px;
+}
+
+#sol {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: cursive;
+  color: aliceblue;
+}
